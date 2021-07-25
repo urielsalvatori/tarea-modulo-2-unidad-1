@@ -1,0 +1,39 @@
+h1 {
+  color: indigo;
+}
+img {
+  height: 300px;
+  width: 400px;
+}
+
+#parrafo1 {
+  color: rgb(143, 179, 108);
+  background-color: blueviolet;
+}
+
+li {
+  font-size: normal;
+  font-style: oblique;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+body {
+  background-color: thistle;
+}
+
+p {
+  font-size: 25px;
+  font-family: "Inter", sans-serif;
+}
+
+i{  
+    font-size: xx-large;
+}
+img{
+    box-shadow: 0 0 10px black;
+    border-radius: 20px;
+}
+
+h1 {
+    text-shadow: 4px 4px 2px rgba(134, 68, 136, 0.6);
+}
